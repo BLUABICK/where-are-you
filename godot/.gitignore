@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Temporary working files and exported builds (keep the folder structure).
+/temp/**/*
+!/temp/**/
+!/temp/**/.gitkeep
+!/temp/.gdignore
+/builds/**/*
+!/builds/**/
+!/builds/**/.gitkeep
+!/builds/.gdignore

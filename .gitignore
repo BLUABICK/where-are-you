@@ -1,0 +1,12 @@
+**/.godot/
+**/*.import
+**/*.log
+/godot/temp/
+/godot/builds/
+/output/
+/staging/
+/verification_project/
+.env
+.env.*
+*.pem
+*.key
