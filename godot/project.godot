@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Novella"
-run/main_scene="res://scenes/novel/artem_test.tscn"
+run/main_scene="res://tests/sprite_lab.tscn"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.png"
 
@@ -21,9 +21,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={
-"unit_test_character": "res://dialogic-2.0-alpha-20/Tests/Resources/unit_test_character.dch"
-}
+directories/dch_directory={}
 directories/dtl_directory={
 "alyona_test": "res://dialogue/timelines/prologue/alyona_test.dtl",
 "artem_test": "res://dialogue/timelines/prologue/artem_test.dtl"
