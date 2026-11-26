@@ -1,0 +1,87 @@
+[
+  {
+    "id": "artem",
+    "sheet": "godot/source_assets/art/characters/quality_v3/artem/artem_12_poses_v3.png",
+    "sheet_size": [
+      1694,
+      928
+    ],
+    "poses": 12,
+    "game_canvas": [
+      360,
+      520
+    ],
+    "tool": "built-in image_gen",
+    "identity_review": "12 head crops compared on white: consistent master head, hair and expression",
+    "extraction": "native-size crop, no resampling or pixelation added; transparent padding to game canvas",
+    "previous_poses": "godot/source_assets/art/characters/quality_v3/artem/previous_poses"
+  },
+  {
+    "id": "alyona",
+    "sheet": "godot/source_assets/art/characters/quality_v3/alyona/alyona_12_poses_v3.png",
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "poses": 12,
+    "game_canvas": [
+      360,
+      520
+    ],
+    "tool": "built-in image_gen",
+    "identity_review": "12 head crops compared on white: consistent master head, hair and expression",
+    "extraction": "native-size crop, no resampling or pixelation added; transparent padding to game canvas",
+    "previous_poses": "godot/source_assets/art/characters/quality_v3/alyona/previous_poses"
+  },
+  {
+    "id": "oleg",
+    "sheet": "godot/source_assets/art/characters/quality_v3/oleg/oleg_12_poses_v3.png",
+    "sheet_size": [
+      1672,
+      941
+    ],
+    "poses": 12,
+    "game_canvas": [
+      360,
+      520
+    ],
+    "tool": "built-in image_gen",
+    "identity_review": "12 head crops compared on white: consistent master head, hair and expression",
+    "extraction": "native-size crop, no resampling or pixelation added; transparent padding to game canvas",
+    "previous_poses": "godot/source_assets/art/characters/quality_v3/oleg/previous_poses"
+  },
+  {
+    "id": "marina",
+    "sheet": "godot/source_assets/art/characters/quality_v3/marina/marina_12_poses_v3.png",
+    "sheet_size": [
+      1688,
+      932
+    ],
+    "poses": 12,
+    "game_canvas": [
+      360,
+      520
+    ],
+    "tool": "built-in image_gen",
+    "identity_review": "12 head crops compared on white: consistent master head, hair and expression",
+    "extraction": "native-size crop, no resampling or pixelation added; transparent padding to game canvas",
+    "previous_poses": "godot/source_assets/art/characters/quality_v3/marina/previous_poses"
+  },
+  {
+    "id": "denis",
+    "sheet": "godot/source_assets/art/characters/quality_v3/denis/denis_12_poses_v3.png",
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "poses": 12,
+    "game_canvas": [
+      360,
+      520
+    ],
+    "tool": "built-in image_gen",
+    "identity_review": "12 head crops compared on white: consistent master head, hair and expression",
+    "extraction": "native-size crop, no resampling or pixelation added; transparent padding to game canvas",
+    "previous_poses": "godot/source_assets/art/characters/quality_v3/denis/previous_poses"
+  }
+]

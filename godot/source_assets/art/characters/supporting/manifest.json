@@ -1,0 +1,38 @@
+[
+  {
+    "id": "oleg",
+    "texture": "res://assets/sprites/characters/oleg/poses/oleg_01_neutral.png",
+    "source": "godot/source_assets/art/characters/supporting/oleg",
+    "tool": "built-in image_gen",
+    "modifications": "Generated 12-pose sheet from mannequin reference; connected-silhouette extraction and nearest-neighbor normalization via tools/split_supporting.ps1",
+    "visual_review": "Inspected in Godot sprite lab on white, dark and game backgrounds; user artistic review still welcome.",
+    "status": "12 active poses regenerated in quality_v3; earlier source retained for history",
+    "pose_sheet": "godot/source_assets/art/characters/supporting/oleg/oleg_12_poses.png",
+    "active_revision": "quality_v3",
+    "active_source": "godot/source_assets/art/characters/quality_v3/oleg/oleg_12_poses_v3.png"
+  },
+  {
+    "id": "marina",
+    "texture": "res://assets/sprites/characters/marina/poses/marina_01_neutral.png",
+    "source": "godot/source_assets/art/characters/supporting/marina",
+    "tool": "built-in image_gen",
+    "modifications": "Generated 12-pose sheet from mannequin reference; connected-silhouette extraction and nearest-neighbor normalization via tools/split_supporting.ps1",
+    "visual_review": "Inspected in Godot sprite lab on white, dark and game backgrounds; user artistic review still welcome.",
+    "status": "12 active poses regenerated in quality_v3; earlier source retained for history",
+    "pose_sheet": "godot/source_assets/art/characters/supporting/marina/marina_12_poses.png",
+    "active_revision": "quality_v3",
+    "active_source": "godot/source_assets/art/characters/quality_v3/marina/marina_12_poses_v3.png"
+  },
+  {
+    "id": "denis",
+    "texture": "res://assets/sprites/characters/denis/poses/denis_01_neutral.png",
+    "source": "godot/source_assets/art/characters/supporting/denis",
+    "tool": "built-in image_gen",
+    "modifications": "Generated 12-pose sheet from mannequin reference; connected-silhouette extraction and nearest-neighbor normalization via tools/split_supporting.ps1",
+    "visual_review": "Inspected in Godot sprite lab on white, dark and game backgrounds; user artistic review still welcome.",
+    "status": "12 active poses regenerated in quality_v3; earlier source retained for history",
+    "pose_sheet": "godot/source_assets/art/characters/supporting/denis/denis_12_poses.png",
+    "active_revision": "quality_v3",
+    "active_source": "godot/source_assets/art/characters/quality_v3/denis/denis_12_poses_v3.png"
+  }
+]
