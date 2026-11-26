@@ -1,0 +1,64 @@
+{
+  "generator": "built-in image_gen",
+  "common": "Generate ONE standalone 16:9 wide 1920x1080 visual novel background in polished detailed pixel-art illustration style: fine crisp pixel clusters, stepped contours, restrained dithering, warm rich harmonious colors, believable depth, matching crafted retro adventure game Kaliningrad background art. No people, text overlays, collage or UI. Ordinary lived-in Russian apartment, realistic small scale and architectural logic, not a hotel or catalogue showroom. SUMMER ONLY, green foliage outside. IMPORTANT break the stock symmetric centered-window room template; use the specified distinct composition. Plausible connected apartment with one entrance door to this room from corridor, coherent plumbing and circulation. Doors do not open into fixtures. Windows never duplicated mechanically. No rugs or wood flooring in bathroom. ",
+  "homes": [
+    {
+      "id": "apartment_01_post_soviet",
+      "plan": "HOME A continuity: older small panel apartment. L-shaped narrow hall connects all three separate rooms. Hall walls faded pale ochre wallpaper; brown flat slab interior doors with brass lever handles and dark wood frames; low ceilings. Living room southwest at end of hall has one balcony door/window unit on its outer wall. Small kitchen is opposite living room off short arm of hall, one small window. Windowless combined bathroom adjacent to kitchen shares wet wall. Furnishing vocabulary old medium-brown veneer, olive/burgundy small accents, practical mismatched late-Soviet furniture. Cozy cared-for but imperfect, not luxurious or uniformly decorated.",
+      "rooms": [
+        [
+          "room",
+          "View diagonally FROM doorway at rear-right toward balcony at far LEFT, not front-on. Rectangular multipurpose bedroom/living room: narrow single daybed along right wall with rumpled muted olive cover; modest desk at left near balcony; old medium-brown cabinet against back wall, unevenly arranged books, small television on separate low stand. Faded cream striped wallpaper, old parquet, small worn burgundy rug partly under daybed. Balcony door and adjacent narrow window at far-left wall with thin lace curtain. Door to hall is just visible near extreme foreground-right; no other doors. Asymmetric lived-in furniture, personal belongings but no cluttered composition."
+        ],
+        [
+          "kitchen",
+          "Small 6-square-meter kitchen viewed obliquely from doorway at near LEFT. Narrow L-shaped old cream laminate kitchen runs on back and RIGHT walls, gas stove with ventilation on back-right wet/service wall, sink right, compact white fridge near doorway on right. Small window on LEFT exterior wall at back, not centered. Folding table under left window, two mismatched stools, patterned oilcloth, enamel kettle, one drying dish rack. Yellowish linoleum floor, simple pale square backsplash, painted pale ochre walls. Summer light from left. No armchairs, no house-sized picture window."
+        ],
+        [
+          "bathroom",
+          "Small WINDOWLESS combined bathroom around 4 square meters viewed diagonally from single doorway at foreground LEFT. Standard short white enamel bathtub occupies rear wall, sink mounted on RIGHT wall near doorway, toilet along left wall with usable space, exposed chrome towel rail; no washing machine if space insufficient. Pale blue square tiles halfway up walls, aged ivory painted upper walls, small gray ceramic floor tiles, cheap white overhead light, faded blue shower curtain. Brown slab door frame at foreground-left matches corridor. Not spa, no plants, no curtains on nonexistent window, no wood floors or large rugs."
+        ],
+        [
+          "hallway",
+          "Narrow L-shaped entry corridor viewed from front entrance. Long arm extends away, turns LEFT at back. Entrance metal door cropped behind camera. Left foreground small old veneer shoe cabinet and narrow mirror, wall hooks with one summer windbreaker and canvas bag. On RIGHT wall close door leads windowless bathroom; farther RIGHT open kitchen doorway gives only a narrow glimpse of cream cabinets and pale linoleum. At end LEFT turn a partly open brown door gives small glimpse of olive daybed living room. Pale ochre faded wallpaper, scuffed brown wood frames, linoleum floor, small practical ceiling light; no windows in hallway. Show coherent walkable corridor not four rooms fused together."
+        ]
+      ]
+    },
+    {
+      "id": "apartment_02_light",
+      "plan": "HOME B continuity: modest recently renovated compact apartment. Short straight corridor with white flush doors and satin chrome lever handles; warm white walls, pale birch wood in dry rooms, cream floor tile kitchen/bath. Separate kitchen on left exterior wall and bedroom on adjacent exterior wall, bathroom is internal windowless beside kitchen. Furnishing off-white, light birch, dusty peach textiles, small sage details. Simple affordable home not luxury. Different doors and trim from other homes.",
+      "rooms": [
+        [
+          "room",
+          "Asymmetric bedroom corner view from near LEFT entrance across toward RIGHT side wall. One tall narrow window on far RIGHT exterior wall with simple peach Roman blind, summer trees. Low double bed in shallow BACK-LEFT alcove with dusty peach linen, unmade neatly; small white wardrobe on back wall beside bed; slim birch desk under right window with simple chair, folded clothes on chair. Wall-mounted reading lamp, one small plant, small round side table, pale wood floor, no sofa, no wall-to-wall window. Single white flush corridor door partly visible on extreme LEFT foreground. Leave central floor walkable."
+        ],
+        [
+          "kitchen",
+          "Bright modest eat-in kitchen viewed diagonally from BACK-RIGHT corner toward entry on LEFT. Single-wall matte off-white cabinet run occupies LEFT wall with stainless sink and induction hob separated by worktop, dishwasher, simple pale tile backsplash. Fridge at far-left end. Narrow rectangular window on BACK wall offset left above work surface, separate small round birch dining table near RIGHT foreground with three mismatched simple chairs, dusty peach cloth over one chair. Single white flush corridor doorway on far RIGHT edge; cream tile floor. Not same viewpoint as bedroom, no centered huge window, no island."
+        ],
+        [
+          "bathroom",
+          "Small WINDOWLESS internal contemporary bathroom, viewed slightly obliquely from doorway at foreground RIGHT. Shower enclosure in back LEFT corner with frosted sliding glass, compact white toilet on rear-right wet wall, narrow wall-hung white sink with light birch vanity on LEFT near foreground, plain oval mirror above. Washer under counter beside sink only if plausible, otherwise omit. Warm ivory square tiles, pale sage floor tiles, peach hand towel, simple ceiling light. White flush door and satin chrome lever visible at near-right. No bathtub here, no windows, no plants or carpets."
+        ]
+      ]
+    },
+    {
+      "id": "apartment_03_blue",
+      "plan": "HOME C continuity: older brick apartment renovated in modern practical style. Long corridor, DARK BLUE painted paneled doors with matte black handles and off-white trim. Warm gray walls, medium walnut dry-room floor, charcoal kitchen/bath tile. Separate elongated main room with two small side windows along same exterior wall; separate rectangular kitchen with single side window; internal bathroom has no window and shares wet wall with kitchen. Walnut, navy, gray and black furnishings, ordinary lived-in personal home.",
+      "rooms": [
+        [
+          "room",
+          "Long narrow multipurpose living room viewed along its length FROM far corner toward corridor doorway at far RIGHT BACK wall. TWO smaller windows spaced along LEFT exterior wall, ivory roller blinds, summer foliage outside; walnut working desk between them with monitor and tangled charging cable. Navy foldout sofa along RIGHT wall facing low television unit on left near foreground. Tall narrow shelf at BACK-left, laundry basket near sofa, gray woven throw, bicycle helmet on shelf. Dark blue paneled door on BACK-right with black lever and white trim. Medium walnut floor with small off-center gray mat. Longitudinal perspective, no centered wall-size window, no symmetrical generic interior."
+        ],
+        [
+          "kitchen",
+          "Long narrow galley-like kitchen seen from corridor entry at foreground RIGHT, diagonally toward LEFT exterior wall. One modest window on LEFT wall near rear with ivory roller blind. L-shaped gray lower cabinets and walnut open shelves occupy BACK and RIGHT wet walls, stainless sink on back wall, electric stove right with extractor, modest fridge near foreground-right. Narrow wall-mounted walnut breakfast counter along LEFT near foreground with two navy stools, countertop everyday jars and drying towel. Dark blue paneled entrance door clipped at foreground-right, white trim black lever. Charcoal tile floor. No island, no big dining room, no sofa."
+        ],
+        [
+          "bathroom",
+          "Narrow WINDOWLESS bathroom, strong diagonal view from doorway at foreground LEFT toward RIGHT rear. Full-size white bathtub along RIGHT long wall, simple straight glass splash screen at far end; wall-mounted toilet on rear wall, very compact walnut sink unit on LEFT near front with rectangular mirror, chrome towel warmer on rear-left, folded navy towels. Light gray rectangular wall tiles and charcoal nonslip floor tile, black small fixtures. Dark blue paneled door with black lever and white trim at foreground-left; plain warm ceiling lighting. No washing machine squeezed into passage, no window, no rug, no parquet."
+        ]
+      ]
+    }
+  ]
+}
